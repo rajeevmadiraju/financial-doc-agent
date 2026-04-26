@@ -2,7 +2,7 @@ import { useState, useCallback } from "react";
 import { useDropzone } from "react-dropzone";
 import axios from "axios";
 
-const API = "http://localhost:8000";
+const API = "https://web-production-3d94.up.railway.app";
 
 export default function Sidebar({ documents, setDocuments }) {
   const [uploading, setUploading] = useState(false);

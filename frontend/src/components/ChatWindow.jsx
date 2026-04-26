@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from "react";
 import axios from "axios";
 import Message from "./Message";
 
-const API = "http://localhost:8000";
+const API = "https://web-production-3d94.up.railway.app";
 
 const SUGGESTED_QUESTIONS = [
   "What was the total revenue?",
