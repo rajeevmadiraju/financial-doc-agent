@@ -6,10 +6,6 @@ An AI agent that ingests financial documents — annual reports, 10-Ks, earnings
 
 ---
 
-![Demo](https://placehold.co/900x500/1a1a2e/ffffff?text=Demo+GIF+coming+soon)
-
----
-
 ## What it does
 
 Upload any financial PDF and ask questions like:
